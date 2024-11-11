@@ -1,6 +1,7 @@
 # GitHub-Project
 
 Group project for Dr. Al Pisano's CSCI 1000 class.
+Part 1: Week 11
 
 ### Group Contributors
 
