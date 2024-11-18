@@ -1,4 +1,5 @@
-This is a personal portfolio hosted on GitHub Pages.
+# Personal Pages
+# Henry Hinshaw
 
 ## About Me
 
