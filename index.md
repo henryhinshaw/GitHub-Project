@@ -21,7 +21,6 @@ Feel free to reach out to me:
 - **GitHub**: https://github.com/henryhinshaw
 - **LinkedIn**: www.linkedin.com/in/henryhinshaw253
 
-I look forward to connecting!
 
 # Hamid Hossaini
 
