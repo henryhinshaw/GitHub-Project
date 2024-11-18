@@ -23,6 +23,26 @@ Feel free to reach out to me:
 
 I look forward to connecting!
 
+# Hamid Hossaini
+
+## About Me
+First Year pursuing a Computer Science degree at the University of Colorado Boulder. Seeking programming skills and experience in software development to contribute to innovative projects in internships.
+
+### Skills 
+- Languages: C++ and Java
+- Weekend Manager for Planet Fitness Chambers
+- Leadership
+
+### Currently Learning More of
+- C++
+- Management
+
+## Contact Info
+
+- **Email**: haho4824@colorado.edu
+- **GitHub**: https://github.com/HamidHo11
+- **LinkedIn**: https://www.linkedin.com/in/hamid-hossaini-96ba40265/
+
 # Benedikt Safigan
 
 ## About Me
