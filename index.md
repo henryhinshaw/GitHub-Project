@@ -1,4 +1,4 @@
-#                 
+
 # Henry Hinshaw
 This is a personal portfolio hosted on GitHub Pages.
 
